@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [VERCEL](https://your-solution-url.com)
+- Solution URL: [VERCEL](https://newsletter-signup-git-main-beealmightys-projects.vercel.app/)
 - Live Site URL: [PORT 5500](http://127.0.0.1:5500/index.html)
 
 ## My process
